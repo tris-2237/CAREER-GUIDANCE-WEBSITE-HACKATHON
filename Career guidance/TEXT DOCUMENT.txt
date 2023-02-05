@@ -1,0 +1,2 @@
+APIs used in the project: json,python,xml
+Any libraries used in project: Html css java script
